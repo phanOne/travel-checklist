@@ -71,5 +71,3 @@
 - [ ] Inform a trusted neighbor/friend of your travel
 - [ ] Empty trash
 - [ ] Set thermostat to an energy-saving mode
-- [ ] Water plants
-

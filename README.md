@@ -1,8 +1,10 @@
-# Domestic Travel Checklist
+# International Travel Checklist
 
 ## Essentials
 
 - [ ] Passport / ID
+- [ ] Vietnam Visa
+- [ ] International Driver's Permit [AAA]
 - [ ] Tickets / Booking confirmations
 - [ ] Wallet (with local currency)
 - [ ] Mobile phone & charger
@@ -12,15 +14,15 @@
 
 ## Clothing
 
-- [ ] Undergarments
-- [ ] Casual wear (T-shirts, jeans, etc.)
-- [ ] Formal wear (if required)
-- [ ] Sleepwear
+- [ ] 5x Underwear
+- [ ] 5x Casual (T-shirts)
+- [ ] 5x (pants)
+- [ ] Formal wear (wedding...)
+- [ ] 1x Sleepwear
 - [ ] Weather-appropriate jackets/coats
 - [ ] Shoes (casual, formal, and comfortable walking shoes)
-- [ ] Socks
+- [ ] 5x Socks
 - [ ] Accessories (watches, jewelry, etc.)
-- [ ] Swimwear (if applicable)
 - [ ] Sunglasses & hat
 
 ## Toiletries
@@ -32,21 +34,15 @@
 - [ ] Deodorant
 - [ ] Razor & shaving cream
 - [ ] Personal hygiene products
-- [ ] Makeup & remover (if applicable)
 - [ ] Towel (if not provided)
 
 ## Health
 
 - [ ] Prescription medications
-- [ ] First-aid kit
-- [ ] Painkillers
-- [ ] Vitamins & supplements
-- [ ] Personal prescriptions & doctor's note (if necessary)
-- [ ] Glasses / Contact lenses & solution
 
 ## Electronics
 
-- [ ] Laptop & charger
+- [ ] 2x Laptop & charger
 - [ ] Camera, memory cards, & charger/batteries
 - [ ] Headphones
 - [ ] Power bank
@@ -55,13 +51,9 @@
 
 ## Miscellaneous
 
-- [ ] Snacks
-- [ ] Water bottle
-- [ ] Books/magazines for entertainment
 - [ ] Travel pillow & eye mask
 - [ ] Notebook & pen
 - [ ] Ziplock bags for organization
-- [ ] Travel laundry detergent
 - [ ] Reusable shopping bag
 
 ## Before You Leave
